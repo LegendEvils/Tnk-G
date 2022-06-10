@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Build Scenes/Menu.unity
+    guid: 4172f7b563dee58458e324cee2fc9db6
+  - enabled: 1
+    path: Assets/Scenes/Build Scenes/TankSelection.unity
+    guid: f8505d9f579afe641aa8b99d889f1051
+  - enabled: 1
+    path: Assets/Scenes/Build Scenes/GameOptions.unity
+    guid: 539181615db9cad48b7126857a1e088f
+  - enabled: 1
+    path: Assets/Scenes/Build Scenes/Controls.unity
+    guid: ce8cbe106e51f3743a1186d24c5874b0
+  - enabled: 1
+    path: Assets/Scenes/Build Scenes/LevelSelection.unity
+    guid: f158e924409ccd4479e743996e3fe1c4
+  - enabled: 1
+    path: Assets/Scenes/Build Scenes/Levels/DesertLevel.unity
+    guid: 9dfc814684512f74c9872ae709772f97
+  - enabled: 1
+    path: Assets/Scenes/Build Scenes/Levels/IceLevel.unity
+    guid: b66b394b39b4c4f41982344d1e8bcf5e
+  - enabled: 1
+    path: Assets/Scenes/Build Scenes/Levels/JungleLevel.unity
+    guid: 7f8d556b813cb514e9f8c58795f09a30
+  - enabled: 1
+    path: Assets/Scenes/Build Scenes/Levels/FireLevel.unity
+    guid: 4842d60d7a374d64eb963a8379f23644
+  - enabled: 1
+    path: Assets/Scenes/Build Scenes/Levels/GrassLandsLevel.unity
+    guid: 883e37deb60f4b44b889d270cf2337e8
+  - enabled: 1
+    path: Assets/Scenes/Build Scenes/EndScreen.unity
+    guid: f9a6ee71f9a4b684ebb02ea140fca735
+  m_configObjects: {}
